@@ -11,4 +11,3 @@ fields:
   default: now
 pages:
 - content/posts/how-to-be-awesome.md
-- content/posts/test.md
