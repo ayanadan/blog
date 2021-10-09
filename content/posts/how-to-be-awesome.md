@@ -8,3 +8,8 @@ title = "How to be awesome"
 Coke is bad
 
 ![](https://i.imgur.com/OcHtBPv.jpeg)
+
+### Why is coke bad?
+
+* it's bad
+* it's very bad
