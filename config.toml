@@ -1,3 +1,10 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ayan Abdullahi'
+theme = "paper"
+
+[params]
+  disableHLJS = true                         # don't use highlight.js
+  twitter = 'YOUR_TWITTER_ID'                
+#  github = 'YOUR_GITHUB_ID'                  
+  instagram = 'YOUR_INSTAGRAM_ID'            
